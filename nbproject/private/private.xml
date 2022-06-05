@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/QuanLySinhVien/src/QuanLySinhVien/Models/DiemThi.java</file>
-            <file>file:/D:/QuanLySinhVien/src/QuanLySinhVien/Models/DangNhap.java</file>
-            <file>file:/D:/QuanLySinhVien/src/QuanLySinhVien/Models/HocPhan.java</file>
-            <file>file:/D:/QuanLySinhVien/src/QuanLySinhVien/Models/HocPhan_Lop.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/View/AccountManager.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/View/Login.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/Controller/LoginController.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/Models/DangNhap.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/Controller/SQLProcessing.java</file>
+            <file>file:/D:/KiPhu/NguyenVanBang/BTL/QLSV_Nhom9_Java/src/QuanLySinhVien/View/Home.java</file>
         </group>
     </open-files>
 </project-private>
